@@ -1,0 +1,20 @@
+{
+    "name": "community-engineering/language-sw_tz",
+    "type": "magento2-language",
+    "description": "sw_TZ language package.",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+          "registration.php"
+        ]
+    }
+}
