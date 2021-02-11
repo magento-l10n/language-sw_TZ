@@ -1,14 +1,8 @@
-None,Hakuna
-Custom,Maalum
 All,Zote
+None,Hakuna
 "Allowed Scopes","Hizo zilizoruhusiwa"
-"You need more permissions to delete this item(s): %1.","Unahitaji ruhusa zaidi kufuta vipengele hivi: %1."
 "You need more permissions to apply some of the rule updates.","Unahitaji ruhusa zaidi kutekeleza baadhi ya mabadiliko."
-"Please assign this entity to a store view.","Tafadhali kiwekee chombo hiki mtazamo wa duka."
-"You need more permissions to save this item.","Unahitaji ruhusa zaidi kuhifadhi kipengele hichi."
-"You need more permissions to delete this item.","Unahitaji ruhusa zaidi ili kufuta kipengele hiki."
-"You need more permissions to view this item.","Unahitaji ruhusa zaidi ili kuonyesha kipengele hiki."
-"You need more permissions to save this setting.","Unahitaji ruhusa zaidi kuhifadhi kipengele hichi."
+Custom,Maalum
 "Incoming Message","Ujumbe unaoingia"
 close,funga
 Notifications,Taarifa
